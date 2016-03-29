@@ -1,5 +1,5 @@
 # wildcircus
-demo website
+demo website pour épreuves d'admission
 
 
 Demo website designed by Nicolas LeDrezen
